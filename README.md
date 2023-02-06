@@ -1,6 +1,6 @@
 <div align="center"> <h1> Pérdida de clientes en telco </h1>  
   
-![](/Análisis-de-Cancelaciones.jpg)
+![](/Portada_3.jpg)
   
 Proyecto realizado en el bootcamp de [Laboratoria](https://app.laboratoria.la/signup-and-login/) e IBM
 </div>
@@ -30,7 +30,7 @@ En este proyecto se realizará un análisis de pérdidas de clientes para un neg
 
 ## Reporte
 
-    Analiza las característica de clientes que abandonan para dar recomendaciones
+    Aprender armar clusters de clientes de una empresa de telecomunicaciones según su comportamiento histórico 
     
 >Para el desarrollo de este proyecto se utilizará herramientas importantes para el análisis de datos. Una de ellas es BigQuery, un motor de base de datos creado por Google, que permite manipular datos de forma eficiente a través del lenguaje SQL. La segunda es PowerBI, una herramienta de visualización de datos creada por Microsoft.
 
@@ -49,6 +49,6 @@ En este proyecto se realizará un análisis de pérdidas de clientes para un neg
 </div>
   
 
-### 🏷️Tags
+### 🏷️
 
 `SQL` | `Power BI` | `Negocios` | `Visualización` 
