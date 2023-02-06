@@ -36,7 +36,7 @@ En este proyecto se realizará un análisis de pérdidas de clientes para un neg
 
 <h4 align="left"> 📝 <a href="https://console.cloud.google.com/bigquery?sq=698978005693:15681600104c4a2491c10e330bab7a90">Proyecto 5: Reporte consultas SQL</a>
   
-<h4 align="left"> 👩‍💻 <a href="https://drive.google.com/drive/folders/1UPQef681MI_pN0WiTB6ly97mtTP63qlg?usp=sharing">Proyecto 4: Reporte Power Bi</a>
+<h4 align="left"> 👩‍💻 <a href="https://drive.google.com/drive/folders/1UPQef681MI_pN0WiTB6ly97mtTP63qlg?usp=sharing">Proyecto 5: Reporte Power Bi</a>
 
 
 ## Solución
