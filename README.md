@@ -21,7 +21,7 @@ En este proyecto se realizará un análisis de pérdidas de clientes para un neg
 >El análisis deberá incluir un con lo siguientes datos:
 - Una exploración general de la población de clientes de TELCO. Entender cuáles son las características de los/as clientes TELCO. 
 - Una exploración de las pérdidas/fugas para entender mejor las hipótesis planteadas sobre los contratos mes-a-mes.
-- Algunas segmentaciones para entender la pérdida de clientes que salieron durante la reunión
+- Algunas segmentaciones para entender la pérdida de clientes.
 <div align="center">
   
 ![](/Dataset_4.jpg) 
