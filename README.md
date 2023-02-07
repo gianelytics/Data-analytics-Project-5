@@ -54,4 +54,4 @@ In this project, a loss of customers analysis will be carried out for a telecomm
 
 ## 🏷️Tags
 
-`SQL` | `Power BI` | `Negocios` | `Visualización` 
+`SQL` | `Power BI` | `Business` | `Visualization` 
