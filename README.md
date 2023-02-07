@@ -1,45 +1,48 @@
-<div align="center"> <h1> Pérdida de clientes en telco </h1>  
+<div align="center"> <h1> Loss of Telco Customers  </h1>  
   
 ![](/Portada_3.jpg)
   
-Proyecto realizado en el bootcamp de [Laboratoria](https://app.laboratoria.la/signup-and-login/) e IBM
+Project carried out in the bootcamp of [Laboratoria](https://app.laboratoria.la/signup-and-login/) and IBM
 </div>
 
-## 🎓 Objetivos del proyecto
+❕ [SEE VERSION SPANISH EDITION](https://github.com/gianelytics/Data-analytics-Project-5/blob/f94392314a46a989795eacdbc06d7ce8f1ac8200/README_spanish.md)
 
-- Importar datos desde un archivo en formato .csv
-- Organizar y manipular datos utilizando SQL.
-- Visualizar datos en una herramienta de Business Intelligence (BI).
-- Comprender el flujo y las etapas del proceso de un análisis.
-- Realizar la limpieza de datos necesaria.
-- Tomar decisiones de negocio basadas en datos.
-- Organizar y comunicar hallazgos
+## 🎓 Project Objectives
 
-## Contexto
+- Import data from a .csv file format
+- Organize and manipulate data using SQL.
+- Visualize data in a Business Intelligence (BI) tool.
+- Understand the flow and stages of the analysis process.
+- Perform necessary data cleaning.
+- Make business decisions based on data.
+- Organize and communicate findings
 
-En este proyecto se realizará un análisis de pérdidas de clientes para un negocio de telecomunicaciones.
->El análisis deberá incluir un con lo siguientes datos:
-- Una exploración general de la población de clientes de TELCO. Entender cuáles son las características de los/as clientes TELCO. 
-- Una exploración de las pérdidas/fugas para entender mejor las hipótesis planteadas sobre los contratos mes-a-mes.
-- Algunas segmentaciones para entender la pérdida de clientes.
+## 📌 Context
+
+In this project, a loss of customers analysis will be carried out for a telecommunications business
+>The analysis must include the following data:
+- A general exploration of the TELCO customer population. Understand what the TELCO customer characteristics are.
+- An exploration of losses/leaks to better understand the hypotheses raised about month-to-month contracts.
+- Some segmentations to understand customer loss.
+
 <div align="center">
   
 ![](/Dataset_4.jpg) 
   </div>
 
 
-## Reporte
+## 🔎 Report
 
-    Aprender armar clusters de clientes de una empresa de telecomunicaciones según su comportamiento histórico 
+    Learn to build customer clusters for a telecommunications company based on their historical behavior  
     
->Para el desarrollo de este proyecto se utilizará herramientas importantes para el análisis de datos. Una de ellas es BigQuery, un motor de base de datos creado por Google, que permite manipular datos de forma eficiente a través del lenguaje SQL. La segunda es PowerBI, una herramienta de visualización de datos creada por Microsoft.
+>For the development of this project, important tools for data analysis will be used. One of them is BigQuery, a database engine created by Google, which allows data to be manipulated efficiently through the SQL language. The second is PowerBI, a data visualization tool created by Microsoft.
 
-<h4 align="left"> 📝 <a href="https://console.cloud.google.com/bigquery?sq=698978005693:15681600104c4a2491c10e330bab7a90">Proyecto 5: Reporte consultas SQL</a>
+<h4 align="left"> 📝 <a href="https://console.cloud.google.com/bigquery?sq=698978005693:15681600104c4a2491c10e330bab7a90">SQL Query Report</a>
   
-<h4 align="left"> 👩‍💻 <a href="https://drive.google.com/drive/folders/1UPQef681MI_pN0WiTB6ly97mtTP63qlg?usp=sharing">Proyecto 5: Reporte Power Bi</a>
+<h4 align="left"> 👩‍💻 <a href="https://drive.google.com/drive/folders/1UPQef681MI_pN0WiTB6ly97mtTP63qlg?usp=sharing">Power Bi Report</a>
 
 
-## Solución
+## 💡Solution
   
 <div align="center">
   
@@ -49,6 +52,6 @@ En este proyecto se realizará un análisis de pérdidas de clientes para un neg
 </div>
   
 
-### 🏷️
+## 🏷️Tags
 
 `SQL` | `Power BI` | `Negocios` | `Visualización` 
